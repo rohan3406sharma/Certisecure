@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![Docker](https://img.shields.io/badge/DevOps-Docker-black)
 # 🔐 CertiSecure – Secure Certificate Generation & Verification Platform
 
 CertiSecure is a platform designed to help hackathons, events, and organizations generate **secure digital certificates** and allow **instant verification using QR codes and unique IDs**.
